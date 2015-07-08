@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cogsy</string>
+    <string name="username">Username:</string>
+    <string name="log_in">Log in</string>
+    <string name="action_settings">Settings</string>
+    <string name="please">Please enter your Discogs username...</string>
+    <string name="password_input">Please enter your Discogs password...</string>
+    <string name="password">Password:</string>
+</resources>
